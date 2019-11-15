@@ -77,6 +77,7 @@
     <Content Include="External\Interop.WindowsInstaller.dll" />
     <Content Include="Html.htm" />
     <Content Include="Images\image1.png" />
+    <Content Include="Images\image2.png" />
     <Content Include="license.txt" />
     <Content Include="Report.ico" />
   </ItemGroup>
