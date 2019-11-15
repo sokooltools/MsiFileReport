@@ -64,6 +64,7 @@
   <ItemGroup>
     <None Include="App.config" />
     <None Include="PostBuild.bat" />
+    <None Include="README.md" />
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="Properties\Resources.resx">
@@ -75,12 +76,11 @@
   <ItemGroup>
     <Content Include="External\Interop.WindowsInstaller.dll" />
     <Content Include="Html.htm" />
+    <Content Include="Images\image1.png" />
     <Content Include="license.txt" />
     <Content Include="Report.ico" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Images\" />
-  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
