@@ -19,7 +19,7 @@ namespace MsiFileReport.Properties {
     // class via a tool like ResGen or Visual Studio.
     // To add or remove a member, edit your .ResX file then rerun ResGen
     // with the /str option, or rebuild your VS project.
-    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "4.0.0.0")]
+    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "16.0.0.0")]
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
     internal class Resources {
@@ -64,28 +64,25 @@ namespace MsiFileReport.Properties {
         ///   Looks up a localized string similar to &lt;!DOCTYPE HTML&gt;
         ///&lt;html&gt;
         ///&lt;head&gt;
+        ///&lt;title&gt;MSI File Report&lt;/title&gt;
         ///&lt;meta http-equiv=&quot;Content-Type&quot; content=&quot;text/html;charset=utf-8&quot; /&gt;
         ///&lt;meta http-equiv=&quot;X-UA-Compatible&quot; content=&quot;IE=edge&quot; /&gt;
         ///&lt;meta name=&quot;Generator&quot; content=&quot;ObjectToHtml&quot; /&gt;
         ///&lt;style type=&quot;text/css&quot;&gt;
-        ///body {
-        ///	margin: 0.3em 0.3em 0.4em 0.4em;
-        ///	font-family: Verdana;
-        ///	font-size: 80%;
-        ///	background: white
-        ///}
-        ///p, pre {
-        ///	margin:0;
-        ///	padding:0;
-        ///	font-family: Verdana;
-        ///}
-        ///table {
-        ///	border-collapse: collapse;
-        ///	border: 2px solid #17b;
-        ///	margin: 0.3em 0.2em;
-        ///}
-        ///table.limit {
-        ///	b [rest of string was truncated]&quot;;.
+        ///	body {
+        ///		margin: 0.3em 0.3em 0.4em 0.4em;
+        ///		font-family: Verdana;
+        ///		font-size: 80%;
+        ///		background: white;
+        ///	}
+        ///	p, pre {
+        ///		margin: 0;
+        ///		padding: 0;
+        ///		font-family: Verdana;
+        ///	}
+        ///	table {
+        ///		border-collapse: collapse;
+        ///		border: 2px solid # [rest of string was truncated]&quot;;.
         /// </summary>
         internal static string HtmlFile {
             get {

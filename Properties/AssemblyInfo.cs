@@ -5,7 +5,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("SokoolTools")]
 [assembly: AssemblyProduct("MsiFileReport")]
-[assembly: AssemblyCopyright("Copyright ©  2018 SokoolTools")]
+[assembly: AssemblyCopyright("Copyright ©  2018-2023 SokoolTools")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 [assembly: ComVisible(false)]
